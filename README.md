@@ -22,7 +22,7 @@
 <a href="https://instagram.com/ankush_paul_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankush_paul_23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/paul_232002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="paul_232002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/white_trex_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="white_trex_999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankush paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankush paul" height="30" width="40" /></a>
+<a href="https://leetcode.com/AnkushPaul111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankush paul" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ankush_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankush_paul" height="30" width="40" /></a>
 </p>
 
