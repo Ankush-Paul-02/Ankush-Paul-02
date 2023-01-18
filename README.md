@@ -5,6 +5,7 @@
          height="45"
          width="45" /> I'm Ankush Paul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
@@ -27,4 +28,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DailyCodeWithAnkush&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
