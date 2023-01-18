@@ -1,6 +1,9 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 ![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/119006401/213138784-3481bbf8-f069-41da-b5d2-3d2d7399a1e1.png)
-<h1 align="center">Hi 👋, I'm Ankush Paul</h1>
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Ankush Paul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
