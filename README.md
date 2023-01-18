@@ -25,6 +25,11 @@
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
+## 💳 Github Profile Summary Card
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DailyCodeWithAnkush&theme=vue"/>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DailyCodeWithAnkush&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DailyCodeWithAnkush&theme=nightowl&hide_border=true)<br/>
