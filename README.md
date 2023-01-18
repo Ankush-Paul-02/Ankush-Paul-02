@@ -5,6 +5,7 @@
          height="45"
          width="45" /> I'm Ankush Paul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DailyCodeWithAnkush&label=Views&color=blue&style=plastic&style=for-the-badge" alt="DailyCodeWithAnkush" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
