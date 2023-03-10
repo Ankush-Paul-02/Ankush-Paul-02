@@ -5,7 +5,7 @@
          height="45"
          width="45" /> I'm Ankush Paul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DailyCodeWithAnkush&label=Views&color=blue&style=plastic&style=for-the-badge" alt="DailyCodeWithAnkush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WizardAreaCode&label=Views&color=blue&style=plastic&style=for-the-badge" alt="WizardAreaCode" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -27,19 +27,19 @@
 
 ## 💳 Github Profile Summary Card
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DailyCodeWithAnkush&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WizardAreaCode&theme=vue"/>
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DailyCodeWithAnkush&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DailyCodeWithAnkush&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DailyCodeWithAnkush&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=WizardAreaCode&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WizardAreaCode&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WizardAreaCode&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=DailyCodeWithAnkush&icon=0&color=1)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=WizardAreaCode&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
   
 <div align="center">
