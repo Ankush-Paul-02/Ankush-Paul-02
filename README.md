@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning Flutter & DSA<br><br>💬 Ask me about DSA, Flutter<br><br>📫 How to reach me ankushpaulclg2002@gmail.com<br><br>⚡ Fun fact I am funny😎😅
+🌱 I’m currently learning Node.js, Express.js, MongoDB<br><br>💬 Ask me about DSA, Flutter<br><br>📫 How to reach me ankushpaulclg2002@gmail.com<br><br>⚡ Fun fact I am funny😎😅
 
 
 ## 🌐 Socials:
