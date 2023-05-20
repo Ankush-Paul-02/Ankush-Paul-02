@@ -12,6 +12,13 @@
 # 💫 About Me:
 🌱 I’m currently learning Node.js, Express.js, MongoDB<br><br>💬 Ask me about DSA, Flutter<br><br>📫 How to reach me ankushpaulclg2002@gmail.com<br><br>⚡ Fun fact I am funny😎😅
 
+## Resume: 
+<p align = "center" > <a href="https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Resume.pdf" target="blank"><img vCenter="true"  Center = "true" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU" alt="Ankush-Paul-02" height="100" width="100" /></a>  <p/>
+
+
+
+<hr>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073687033568) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_paul_23/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-paul-950988228) [![LeetCode user AnkushPaul111](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAnkushPaul111&logo=leetcode&logoColor=yellow)](https://leetcode.com/AnkushPaul111/)  
