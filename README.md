@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankush-Paul-02&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Ankush-Paul-02" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"> -->
 
 # 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=I+am+Ankush+Paul.;I+am+a+Flutter+Developer;My+passion+is+programming)<br>
