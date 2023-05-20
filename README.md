@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
-![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/119006401/213138784-3481bbf8-f069-41da-b5d2-3d2d7399a1e1.png)
+![Ankush Paul](https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/github.png)
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -7,11 +7,12 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankush-Paul-02&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Ankush-Paul-02" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning Node.js, Express.js, MongoDB<br><br>💬 Ask me about DSA, Flutter<br><br>📫 How to reach me ankushpaulclg2002@gmail.com<br><br>⚡ Fun fact I am funny😎😅
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=I+am+Ankush+Paul.;I+am+a+Flutter+Developer;My+passion+is+programming)<br>
+👨🏻‍💻 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about DSA, Flutter<br>📫 How to reach me ankushpaulclg2002@gmail.com<br>⚡ Fun fact I am funny😎😅
+<br>
 ## Resume: 
 <p align = "center" > <a href="https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Resume.pdf" target="blank"><img vCenter="true"  Center = "true" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU" alt="Ankush-Paul-02" height="100" width="100" /></a>  <p/>
 
