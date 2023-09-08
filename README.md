@@ -7,7 +7,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"> -->
 
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=I+am+Ankush+Paul.;I+am+a+Flutter+Developer;My+passion+is+programming)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Myself+Ankush+Paul.;I+am+a+Flutter+and+Java+Backend+Developer;My+passion+is+programming)<br>
 👨🏻‍💻 I’m currently learning JAVA Backend Development<br>💬 Ask me about DSA, Flutter<br>📫 How to reach me ankushpaulclg2002@gmail.com<br>⚡ Fun fact I am funny😎😅
 <br>
 ## Resume: 
