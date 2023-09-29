@@ -37,7 +37,7 @@
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
-## 💳 Github Profile Summary Card
+## 💳 GitHub Profile Summary Card
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankush-Paul-02&theme=vue"/>
 </p>
@@ -47,8 +47,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Paul-02&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ankush-Paul-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🕸️ Badges:
+[![An image of @ankushpaul02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankushpaul02)](https://holopin.io/@ankushpaul02)
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Ankush-Paul-02&icon=0&color=1)](https://visitcount.itsvg.in) -->
