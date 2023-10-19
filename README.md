@@ -33,8 +33,8 @@
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/dell-inspiron-15%205518?style=for-the-badge&logo=dell&logoColor=white"/>
 
-## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
+<!-- ## 🎵 Music apps I use
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/> -->
 
 ## 💳 GitHub Profile Summary Card
 <p align="left">
