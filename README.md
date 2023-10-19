@@ -10,7 +10,7 @@
 👨🏻‍💻 I’m currently learning JAVA Backend Development<br>💬 Ask me about DSA, Flutter<br>📫 How to reach me ankushpaulclg2002@gmail.com<br>⚡ Fun fact I am funny😎😅
 <br>
 ## Resume: 
-<p align = "center" > <a href="https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Resume.pdf" target="blank"><img vCenter="true"  Center = "true" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU" alt="Ankush-Paul-02" height="100" width="100" /></a>  <p/>
+<p align = "center" > <a href="https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Resume.pdf" target="blank"><img vCenter="true"  Center = "true" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU](https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Ankush's%20Resume.pdf)" alt="Ankush-Paul-02" height="100" width="100" /></a>  <p/>
 
 
 
