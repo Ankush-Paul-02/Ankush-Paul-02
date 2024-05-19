@@ -63,3 +63,6 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+### Watch snack eating my github contributions
+![snake gif](https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/output/github-contribution-grid-snake.svg)
