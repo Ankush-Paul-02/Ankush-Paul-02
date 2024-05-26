@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Myself+Ankush+Paul.;I+am+a+Flutter+and+Java+Backend+Developer;My+passion+is+programming)<br>
-👨🏻‍💻  I'm currently trying to go into the Backend domain !<br>💬 Ask me about DSA, Flutter<br> ⚡ I don't love tags but you can call me a Flutter Developer who loves making apps. <br>📫 How to reach me ankushpaulclg2002@gmail.com
+👨🏻‍💻  I'm currently working on Spring Boot !<br>💬 Ask me about DSA, Flutter<br> ⚡ I don't love tags but you can call me a Flutter Developer who loves making apps. <br>📫 How to reach me ankushpaulclg2002@gmail.com
 <br>
 <!-- ## Resume: 
 <p align = "center" > <a href="https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Resume.pdf" target="blank"><img vCenter="true"  Center = "true" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU](https://github.com/Ankush-Paul-02/Ankush-Paul-02/blob/main/Ankush's%20Resume.pdf)" alt="Ankush-Paul-02" height="100" width="100" /></a>  <p/> -->
