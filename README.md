@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Agentic AI**
 
-- 💬 Ask me about **DSA, Spring Boot, Backend Development, App Development, System Design**
+- 💬 Ask me about **DSA, Backend Development, App Development, System Design**
 
 - 📫 How to reach me **ankushpaulclg2002@gmail.com**
 
